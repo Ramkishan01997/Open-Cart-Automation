@@ -52,7 +52,7 @@ public class BaseClass {
 
 	@AfterClass
 	public void teadDown() {
-//		driver.quit();
+		driver.quit();
 	}
 
 	public String randomeString() {
