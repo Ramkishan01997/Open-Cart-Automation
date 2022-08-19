@@ -6,12 +6,9 @@ import org.openqa.selenium.support.FindBy;
 
 public class HomePage extends BasePage {
 
-	
-	
 	public HomePage(WebDriver driver) {
 		super(driver);
 	}
-
 
 	// Elements
 	@FindBy(xpath = "//span[text()='My Account']")
@@ -19,6 +16,9 @@ public class HomePage extends BasePage {
 
 	@FindBy(linkText = "Register")
 	WebElement lnkRegister;
+	
+	@FindBy(linkText = "Login")
+	WebElement loginLink;
 
 	// Action Methods
 	public void clickMyAccount() {
@@ -28,5 +28,8 @@ public class HomePage extends BasePage {
 	public void clickRegister() {
 		lnkRegister.click();
 	}
-	
+	public void clickLogin() {
+		loginLink.click();
+	}
+
 }

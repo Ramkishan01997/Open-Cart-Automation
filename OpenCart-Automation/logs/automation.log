@@ -50,3 +50,36 @@
 07:52:49.185 [main] INFO  testCases.TC_001AccountRegisterTest - Entered Email Id 
 07:52:49.281 [main] INFO  testCases.TC_001AccountRegisterTest - Entered Password 
 07:52:49.358 [main] INFO  testCases.TC_001AccountRegisterTest - clicked on continue button 
+08:24:46.146 [main] INFO  testCases.TC_2_LoginTest - cliking on my account button
+08:24:46.636 [main] INFO  testCases.TC_2_LoginTest - clicke don login button
+08:25:17.786 [main] INFO  testCases.TC_2_LoginTest - cliking on my account button
+08:25:18.328 [main] INFO  testCases.TC_2_LoginTest - clicke don login button
+09:23:46.491 [main] INFO  testCases.TC_2_LoginTest - cliking on my account button
+09:23:47.176 [main] INFO  testCases.TC_2_LoginTest - clicke don login button
+09:23:47.274 [main] INFO  testCases.TC_2_LoginTest -  entered email id
+09:23:47.363 [main] INFO  testCases.TC_2_LoginTest -  entered password
+09:23:47.439 [main] INFO  testCases.TC_2_LoginTest - clicked on login button
+09:26:44.543 [main] INFO  testCases.TC_001AccountRegisterTest - Clicked on My Account 
+09:26:45.264 [main] INFO  testCases.TC_001AccountRegisterTest - Clicked on Register 
+09:26:45.372 [main] INFO  testCases.TC_001AccountRegisterTest - Entered FirstName 
+09:26:45.459 [main] INFO  testCases.TC_001AccountRegisterTest - Entered Lastname 
+09:26:45.546 [main] INFO  testCases.TC_001AccountRegisterTest - Entered Email Id 
+09:26:45.627 [main] INFO  testCases.TC_001AccountRegisterTest - Entered Password 
+09:26:45.688 [main] INFO  testCases.TC_001AccountRegisterTest - clicked on continue button 
+09:26:49.030 [main] INFO  testCases.TC_2_LoginTest - cliking on my account button
+09:26:49.839 [main] INFO  testCases.TC_2_LoginTest - clicke don login button
+09:26:49.945 [main] INFO  testCases.TC_2_LoginTest -  entered email id
+09:26:50.044 [main] INFO  testCases.TC_2_LoginTest -  entered password
+09:26:50.114 [main] INFO  testCases.TC_2_LoginTest - clicked on login button
+09:27:26.794 [main] INFO  testCases.TC_001AccountRegisterTest - Clicked on My Account 
+09:27:31.683 [main] INFO  testCases.TC_001AccountRegisterTest - Clicked on Register 
+09:27:31.793 [main] INFO  testCases.TC_001AccountRegisterTest - Entered FirstName 
+09:27:31.914 [main] INFO  testCases.TC_001AccountRegisterTest - Entered Lastname 
+09:27:32.018 [main] INFO  testCases.TC_001AccountRegisterTest - Entered Email Id 
+09:27:32.102 [main] INFO  testCases.TC_001AccountRegisterTest - Entered Password 
+09:27:32.161 [main] INFO  testCases.TC_001AccountRegisterTest - clicked on continue button 
+09:27:40.888 [main] INFO  testCases.TC_2_LoginTest - cliking on my account button
+09:27:41.837 [main] INFO  testCases.TC_2_LoginTest - clicke don login button
+09:27:41.962 [main] INFO  testCases.TC_2_LoginTest -  entered email id
+09:27:42.072 [main] INFO  testCases.TC_2_LoginTest -  entered password
+09:27:42.147 [main] INFO  testCases.TC_2_LoginTest - clicked on login button
