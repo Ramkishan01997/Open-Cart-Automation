@@ -31,7 +31,7 @@ public class TC_001AccountRegisterTest extends BaseClass {
 
 			regpage.clickContinue();
 			logger.info("clicked on continue button ");
-
+           
 		} catch (Exception e) {
 			Assert.fail();
 		}
