@@ -52,7 +52,7 @@ public class BaseClass {
 
 	@AfterClass
 	public void teadDown() {
-//		driver.quit();
+		driver.quit();
 	}
 
 	public String randomeString() {
@@ -69,7 +69,7 @@ public class BaseClass {
 		String imgPath = new SimpleDateFormat("YYYY-MM-dd-hhMMss").format(new Date());
 		TakesScreenshot takescreenshot = (TakesScreenshot) driver;
 		File source = takescreenshot.getScreenshotAs(OutputType.FILE);
-		String destination = System.getProperty("user.dir") + "\\screenShots\\" + name + "-" + imgPath+".png";
+		String destination = System.getProperty("user.dir") + "\\screenShots\\" + name + "-" + imgPath + ".png";
 		try {
 			FileUtils.copyFile(source, new File(destination));
 		} catch (Exception e) {
