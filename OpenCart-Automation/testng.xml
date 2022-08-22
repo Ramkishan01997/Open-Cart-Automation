@@ -10,6 +10,7 @@
 			<class name="testCases.TC_001AccountRegisterTest" />
 			<class name="testCases.TC_2_LoginTest" />
 			<class name="testCases.TC_3_loginDataDriven_Test" />
+			<class name="testCases.TC_4_addToCart" />
 		</classes>
 	</test>
 </suite> <!-- Suite -->
