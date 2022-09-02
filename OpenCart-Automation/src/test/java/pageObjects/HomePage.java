@@ -2,6 +2,7 @@ package pageObjects;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
 
 public class HomePage extends BasePage {
@@ -19,6 +20,12 @@ public class HomePage extends BasePage {
 	
 	@FindBy(linkText = "Login")
 	WebElement loginLink;
+	
+	@FindBy(xpath="//a[@class='nav-link dropdown-toggle'][text()='Desktops']")
+	WebElement desktopMenu;
+	
+	@FindBy(xpath="//*[text()='Show All Desktops']")
+	WebElement showAllSektop;
 
 	// Action Methods
 	public void clickMyAccount() {
@@ -30,6 +37,14 @@ public class HomePage extends BasePage {
 	}
 	public void clickLogin() {
 		loginLink.click();
+	}
+	
+	public void moveOnDeskMenu() {
+		Actions act=new Actions(driver);
+		act.moveToElement(desktopMenu).build().perform();
+	}
+	public void clickDesktopMenu() {
+		showAllSektop.click();
 	}
 
 }

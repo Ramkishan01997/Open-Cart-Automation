@@ -23,7 +23,7 @@ public class ExtentReport implements ITestListener {
 	public ExtentTest test; // creating test case entries in the report and update status of the test methods
 
 	public void onStart(ITestContext context) {
-		String timeStamp=new SimpleDateFormat("yyyyMMddhhMMss").format(new Date());
+		String timeStamp=new SimpleDateFormat("yyyy-MM-ddhhMMss").format(new Date());
 		String repName="test-report"+timeStamp+".html";
 		sparkReporter=new ExtentSparkReporter(".\\Reports\\"+repName);
 		

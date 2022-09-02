@@ -17,5 +17,6 @@ public class TC_4_addToCart extends BaseClass {
 		Assert.assertEquals(prod_txt, "iPhone");
 		hmpage.clickCartbtn();
 		hmpage.click_shoppingcart();
+		
 	}
 }

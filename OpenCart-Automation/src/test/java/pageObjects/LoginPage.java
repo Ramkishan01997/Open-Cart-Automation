@@ -1,5 +1,7 @@
 package pageObjects;
 
+import java.util.List;
+
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -19,6 +21,10 @@ public class LoginPage extends BasePage {
 	@FindBy(xpath="//button[text()='Login']")
 	WebElement loginbtn;
 	
+	@FindBy(xpath="//*[@class='list-group mb-3']//a")
+	List<WebElement> allLinks;
+	
+	
 	public void  setemailtext(String email) {
 		emailTxt.sendKeys(email);
 	}
@@ -27,5 +33,18 @@ public class LoginPage extends BasePage {
 	}
 	public void clickLoginbtn() {
 		loginbtn.click();
+	}
+	
+	public int alllnk() {
+		int lnk=allLinks.size();
+		return lnk;
+	}
+	public void allWebelm() {
+		for(WebElement a:allLinks) {
+			String g=a.getAttribute("href");
+			System.out.println(g);
+			
+		}
+		
 	}
 }

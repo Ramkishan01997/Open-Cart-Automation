@@ -215,3 +215,65 @@
 08:12:31.617 [main] INFO  testCases.TC_3_loginDataDriven_Test - clicke don login button
 08:12:31.752 [main] INFO  testCases.TC_3_loginDataDriven_Test -  entered email id
 08:12:31.895 [main] INFO  testCases.TC_3_loginDataDriven_Test -  entered password
+08:54:46.780 [main] INFO  testCases.TC_001AccountRegisterTest - Clicked on My Account 
+08:54:47.377 [main] INFO  testCases.TC_001AccountRegisterTest - Clicked on Register 
+08:54:47.497 [main] INFO  testCases.TC_001AccountRegisterTest - Entered FirstName 
+08:54:47.590 [main] INFO  testCases.TC_001AccountRegisterTest - Entered Lastname 
+08:54:47.681 [main] INFO  testCases.TC_001AccountRegisterTest - Entered Email Id 
+08:54:47.760 [main] INFO  testCases.TC_001AccountRegisterTest - Entered Password 
+08:54:47.819 [main] INFO  testCases.TC_001AccountRegisterTest - clicked on continue button 
+08:54:51.321 [main] INFO  testCases.TC_2_LoginTest - cliking on my account button
+08:54:52.150 [main] INFO  testCases.TC_2_LoginTest - clicke don login button
+08:54:52.265 [main] INFO  testCases.TC_2_LoginTest -  entered email id
+08:54:52.364 [main] INFO  testCases.TC_2_LoginTest -  entered password
+08:54:52.432 [main] INFO  testCases.TC_2_LoginTest - clicked on login button
+08:55:08.199 [main] INFO  testCases.TC_3_loginDataDriven_Test - cliking on my account button
+08:55:08.929 [main] INFO  testCases.TC_3_loginDataDriven_Test - clicke don login button
+08:55:09.042 [main] INFO  testCases.TC_3_loginDataDriven_Test -  entered email id
+08:55:09.132 [main] INFO  testCases.TC_3_loginDataDriven_Test -  entered password
+08:55:09.271 [main] INFO  testCases.TC_3_loginDataDriven_Test - cliking on my account button
+08:55:09.796 [main] INFO  testCases.TC_3_loginDataDriven_Test - clicke don login button
+08:55:09.890 [main] INFO  testCases.TC_3_loginDataDriven_Test -  entered email id
+08:55:09.965 [main] INFO  testCases.TC_3_loginDataDriven_Test -  entered password
+08:55:10.082 [main] INFO  testCases.TC_3_loginDataDriven_Test - cliking on my account button
+08:55:10.917 [main] INFO  testCases.TC_3_loginDataDriven_Test - clicke don login button
+08:55:11.005 [main] INFO  testCases.TC_3_loginDataDriven_Test -  entered email id
+08:55:11.084 [main] INFO  testCases.TC_3_loginDataDriven_Test -  entered password
+08:55:11.199 [main] INFO  testCases.TC_3_loginDataDriven_Test - cliking on my account button
+08:55:12.021 [main] INFO  testCases.TC_3_loginDataDriven_Test - clicke don login button
+08:55:12.120 [main] INFO  testCases.TC_3_loginDataDriven_Test -  entered email id
+08:55:12.197 [main] INFO  testCases.TC_3_loginDataDriven_Test -  entered password
+08:59:35.963 [main] INFO  testCases.TC_001AccountRegisterTest - Clicked on My Account 
+08:59:36.638 [main] INFO  testCases.TC_001AccountRegisterTest - Clicked on Register 
+08:59:36.745 [main] INFO  testCases.TC_001AccountRegisterTest - Entered FirstName 
+08:59:36.834 [main] INFO  testCases.TC_001AccountRegisterTest - Entered Lastname 
+08:59:36.925 [main] INFO  testCases.TC_001AccountRegisterTest - Entered Email Id 
+08:59:36.999 [main] INFO  testCases.TC_001AccountRegisterTest - Entered Password 
+08:59:37.058 [main] INFO  testCases.TC_001AccountRegisterTest - clicked on continue button 
+08:59:40.677 [main] INFO  testCases.TC_2_LoginTest - cliking on my account button
+08:59:41.378 [main] INFO  testCases.TC_2_LoginTest - clicke don login button
+08:59:41.477 [main] INFO  testCases.TC_2_LoginTest -  entered email id
+08:59:41.561 [main] INFO  testCases.TC_2_LoginTest -  entered password
+08:59:41.624 [main] INFO  testCases.TC_2_LoginTest - clicked on login button
+08:59:56.212 [main] INFO  testCases.TC_3_loginDataDriven_Test - cliking on my account button
+08:59:56.645 [main] INFO  testCases.TC_3_loginDataDriven_Test - clicke don login button
+08:59:56.744 [main] INFO  testCases.TC_3_loginDataDriven_Test -  entered email id
+08:59:56.830 [main] INFO  testCases.TC_3_loginDataDriven_Test -  entered password
+08:59:56.947 [main] INFO  testCases.TC_3_loginDataDriven_Test - cliking on my account button
+08:59:57.665 [main] INFO  testCases.TC_3_loginDataDriven_Test - clicke don login button
+08:59:57.754 [main] INFO  testCases.TC_3_loginDataDriven_Test -  entered email id
+08:59:57.827 [main] INFO  testCases.TC_3_loginDataDriven_Test -  entered password
+08:59:57.940 [main] INFO  testCases.TC_3_loginDataDriven_Test - cliking on my account button
+08:59:58.482 [main] INFO  testCases.TC_3_loginDataDriven_Test - clicke don login button
+08:59:58.563 [main] INFO  testCases.TC_3_loginDataDriven_Test -  entered email id
+08:59:58.632 [main] INFO  testCases.TC_3_loginDataDriven_Test -  entered password
+08:59:58.747 [main] INFO  testCases.TC_3_loginDataDriven_Test - cliking on my account button
+08:59:59.284 [main] INFO  testCases.TC_3_loginDataDriven_Test - clicke don login button
+08:59:59.378 [main] INFO  testCases.TC_3_loginDataDriven_Test -  entered email id
+08:59:59.449 [main] INFO  testCases.TC_3_loginDataDriven_Test -  entered password
+09:22:45.426 [main] INFO  testCases.Tc_5_verifyLinks - cliking on my account button
+09:24:47.697 [main] INFO  testCases.Tc_5_verifyLinks - cliking on my account button
+09:35:17.127 [main] INFO  testCases.Tc_5_verifyLinks - cliking on my account button
+09:19:21.537 [main] INFO  testCases.TC_6SerachProductByCategeory - moved on desktop menu
+09:19:23.934 [main] INFO  testCases.TC_6SerachProductByCategeory - clicked on show all desktop
+09:21:39.457 [main] INFO  testCases.TC_6SerachProductByCategeory - moved on desktop menu
